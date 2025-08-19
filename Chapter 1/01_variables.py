@@ -11,8 +11,13 @@ name = "Fouad"
 age = 25
 height = 5.9
 is_student = True
+name2 = "Sana"
+age2 = 24
+height2 = 5.4
+is_student2 = False
 
 print(name, age, height, is_student)
+print(name2, age2, height2, is_student2)
 
 """
 Explanation:
